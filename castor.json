@@ -1,6 +1,6 @@
 {
-  "ArchiveName": "ZT2-mod-template",
-  "RepoName": "GitHubAccount/Reponame",
+  "ArchiveName": "zzz-ApoWhereIsWally",
+  "RepoName": "Zt-freak/Where-Is-Wally",
   "Author": null,
   "Version": "v0.0.1",
   "Type": "mod",
@@ -30,8 +30,6 @@
     "xpinfo"
   ],
   "ExcludeFolders": [],
-  "Dependencies": [
-    "ZtModArchive/ArluqTools/v2.7"
-  ],
+  "Dependencies": [],
   "DevDependencies": []
 }
